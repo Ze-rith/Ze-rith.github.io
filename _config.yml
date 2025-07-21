@@ -12,8 +12,8 @@ favicon: 'favicon.ico'
 
 
 instagram: 'me.zerith'
-github: 'Ze-rith'
-blog: 'velog.io/@ze-rith/posts'
+github-user: 'Ze-rith'
+blog_url: 'velog.io/@ze-rith/posts'
 email: 'me.secur1ty.dev@gmail.com'
 
 social-links-order: [github-user, instagram, blog_url, email]
@@ -66,7 +66,7 @@ social-links:
   - name: pinterest
     url-pattern: pinterest.com/__USERNAME__
 
-  - name: github
+  - name: github-user
     url-pattern: github.com/Ze-rith
     icon-class: fab fa-2x fa-github
 
@@ -127,7 +127,7 @@ social-links:
   - name: quora
     url-pattern: www.quora.com/profile/__USERNAME__
 
-  - name: blog
+  - name: blog-url
     url-pattern: velog.io/@ze-rith/posts
     icon-class: fas fa-2x fa-blog
 
