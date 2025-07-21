@@ -32,10 +32,10 @@ tumblr: 'mytumblr'
 weibo: 'myweibo'
 vk: 'myvk'
 blog_url: 'myblog.blog.com'
-email: 'hello@example.com'
+email: 'me.secur1ty.dev@gmail.com'
 messenger: 'myfbchat'
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+social-links-order: [github-user, instagram, blog_url, email]
 
 # Yaml manifest of supported social links
 # Requirements:
@@ -77,7 +77,7 @@ social-links:
     url-pattern: weibo.com/__USERNAME__
 
   - name: instagram
-    url-pattern: instagram.com/__USERNAME__
+    url-pattern: instagram.com/me.zerith
 
   - name: flickr
     url-pattern: flickr.com/__USERNAME__
@@ -86,7 +86,7 @@ social-links:
     url-pattern: pinterest.com/__USERNAME__
 
   - name: github-user
-    url-pattern: github.com/__USERNAME__
+    url-pattern: github.com/Ze-rith
     icon-class: fab fa-2x fa-github
 
   - name: gitlab-user
@@ -147,10 +147,10 @@ social-links:
     url-pattern: www.quora.com/profile/__USERNAME__
 
   - name: blog_url
-    url-pattern: '__USERNAME__'
+    url-pattern: velog.io/@ze-rith/posts
     icon-class: fas fa-2x fa-blog
 
   - name: email
     url-scheme: 'mailto:'
-    url-pattern: '__USERNAME__'
+    url-pattern: me.secur1ty.dev@gmail.com
     icon-class: far fa-2x fa-envelope-open
