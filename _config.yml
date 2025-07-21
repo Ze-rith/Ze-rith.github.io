@@ -12,11 +12,11 @@ favicon: 'favicon.ico'
 
 
 instagram: 'me.zerith'
-github-user: 'Ze-rith'
-blog_url: 'velog.io/@ze-rith/posts'
+github: 'Ze-rith'
+blog: 'velog.io/@ze-rith/posts'
 email: 'me.secur1ty.dev@gmail.com'
 
-social-links-order: [github-user, instagram, blog_url, email]
+social-links-order: [github, instagram, blog, email]
 
 # Yaml manifest of supported social links
 # Requirements:
@@ -66,7 +66,7 @@ social-links:
   - name: pinterest
     url-pattern: pinterest.com/__USERNAME__
 
-  - name: github-user
+  - name: github
     url-pattern: github.com/Ze-rith
     icon-class: fab fa-2x fa-github
 
@@ -127,7 +127,7 @@ social-links:
   - name: quora
     url-pattern: www.quora.com/profile/__USERNAME__
 
-  - name: blog_url
+  - name: blog
     url-pattern: velog.io/@ze-rith/posts
     icon-class: fas fa-2x fa-blog
 
