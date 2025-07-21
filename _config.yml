@@ -12,8 +12,8 @@ favicon: 'favicon.ico'
 
 
 instagram: 'me.zerith'
-github-user: 'Ze-rith'
-blog_url: 'velog.io/@ze-rith/posts'
+github: 'Ze-rith'
+blog: 'velog.io/@ze-rith/posts'
 email: 'me.secur1ty.dev@gmail.com'
 
 social-links-order: [github-user, instagram, blog_url, email]
